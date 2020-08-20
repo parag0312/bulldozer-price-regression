@@ -1,11 +1,12 @@
 # Bulldozer-Price-Regression <br>
 
-Predicting Sales prices for future!?<br>
-predicting future Stocks!?<br>
+Predicting Sales prices !?<br>
+predicting Stocks!?<br>
 Predicting Real estate market!?<br>
 
 Looks all imaginery?<br>
 How cool is this. Just Imagine!! But how?<br> 
+
 Can we build a machine learning model which predicts future? Looks all imaginery and magical? But is it possible?<br>
 Indeed it is and it's no magic,it's simple maths. May be not so simple sometimes :D. Using maths, models/estimators are created which predicts future sales.
 
